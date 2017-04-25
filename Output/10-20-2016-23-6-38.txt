@@ -1,0 +1,11 @@
+[3.86] Note: All times listed are in seconds since the start of the game!
+[3.86] Some times (such as this message) may be the same. This means both happened within the same frame in Unity.
+[3.86] Hook Received -> Generic Hook
+[7.66] Hook Received -> Generic Hook
+[11.8] Hook Received -> Generic Hook
+[15.74] Hook Received -> Generic Hook
+[19.76] Hook Received -> Generic Hook
+[23.8] Hook Received -> Generic Hook
+[27.66] Hook Received -> Generic Hook
+[37.7] Hook Received -> Generic Hook
+[41.9] Hook Received -> Generic Hook

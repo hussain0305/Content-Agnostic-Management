@@ -1,0 +1,179 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980M (ID=0x1617)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Semester III\Game Based Learning\CAM\CAM Example\CAM Example\Content Agnostic Example\temp1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Semester III\Game Based Learning\CAM\CAM Example\CAM Example\Content Agnostic Example\temp1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Semester III\Game Based Learning\CAM\CAM Example\CAM Example\Content Agnostic Example\temp1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Semester III\Game Based Learning\CAM\CAM Example\CAM Example\Content Agnostic Example\temp1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Semester III\Game Based Learning\CAM\CAM Example\CAM Example\Content Agnostic Example\temp1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Semester III\Game Based Learning\CAM\CAM Example\CAM Example\Content Agnostic Example\temp1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Semester III\Game Based Learning\CAM\CAM Example\CAM Example\Content Agnostic Example\temp1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Semester III\Game Based Learning\CAM\CAM Example\CAM Example\Content Agnostic Example\temp1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Semester III\Game Based Learning\CAM\CAM Example\CAM Example\Content Agnostic Example\temp1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Semester III\Game Based Learning\CAM\CAM Example\CAM Example\Content Agnostic Example\temp1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.133 seconds
+Platform assembly: F:\Semester III\Game Based Learning\CAM\CAM Example\CAM Example\Content Agnostic Example\temp1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Semester III\Game Based Learning\CAM\CAM Example\CAM Example\Content Agnostic Example\temp1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 75Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.614242 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 363c -> priority: 1 
+  Thread -> id: 1e5c -> priority: 1 
+Load
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.176533 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 0.220274 ms (FindLiveObjects: 0.020922 ms CreateObjectMapping: 0.019343 ms MarkObjects: 0.172114 ms  DeleteObjects: 0.007500 ms)
+
+The referenced script on this Behaviour (Game Object 'Sphere') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.405021 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 0.196589 ms (FindLiveObjects: 0.024474 ms CreateObjectMapping: 0.013421 ms MarkObjects: 0.144875 ms  DeleteObjects: 0.013421 ms)
+
+Triggered bySphere (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+4 -- 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+4++4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Valid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+The referenced script on this Behaviour (Game Object 'Sphere') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.377782 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 0.190667 ms (FindLiveObjects: 0.021711 ms CreateObjectMapping: 0.013421 ms MarkObjects: 0.151586 ms  DeleteObjects: 0.003552 ms)
+
+Triggered bySphere (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8 -- 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8++8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Valid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+The referenced script on this Behaviour (Game Object 'Sphere') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.381335 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 0.194615 ms (FindLiveObjects: 0.021711 ms CreateObjectMapping: 0.013816 ms MarkObjects: 0.155139 ms  DeleteObjects: 0.003158 ms)
+
+Triggered bySphere (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+7 -- 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+7++7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Valid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+The referenced script on this Behaviour (Game Object 'Sphere') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.378967 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 0.208431 ms (FindLiveObjects: 0.022106 ms CreateObjectMapping: 0.024869 ms MarkObjects: 0.157113 ms  DeleteObjects: 0.003552 ms)
+
+Triggered bySphere (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8 -- 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8++8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Valid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+The referenced script on this Behaviour (Game Object 'Sphere') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.375809 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 0.241591 ms (FindLiveObjects: 0.041054 ms CreateObjectMapping: 0.013816 ms MarkObjects: 0.168561 ms  DeleteObjects: 0.003552 ms)
+
+Triggered bySphere (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8 -- 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8++8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Valid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+The referenced script on this Behaviour (Game Object 'Sphere') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.363966 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 0.196983 ms (FindLiveObjects: 0.022106 ms CreateObjectMapping: 0.013026 ms MarkObjects: 0.148034 ms  DeleteObjects: 0.003158 ms)
+
